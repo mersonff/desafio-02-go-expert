@@ -59,6 +59,8 @@ Também há um **timeout de 1 segundo**, para garantir a performance da aplicaç
    Cidade: São Paulo
    UF: SP
 
+---
+
 ## 🧪 Testes
 
 ```bash
