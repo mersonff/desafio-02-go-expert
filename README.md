@@ -38,15 +38,19 @@ Também há um **timeout de 1 segundo**, para garantir a performance da aplicaç
    cd desafio-02-go-expert
 
 2. Instale as dependências:
+   ```bash
    go mod tidy
 
 3. Execute o programa:
+   ```bash
    go run main.go
 
 4. Digite um CEP válido:
+   ```bash
    Digite o CEP: 01153000
 
 5. Exemplo de Saída:
+   ```bash
    Digite o CEP: 01153000
    Resultado recebido da ViaCEP:
    CEP: 01153-000
@@ -57,4 +61,5 @@ Também há um **timeout de 1 segundo**, para garantir a performance da aplicaç
 
 ## 🧪 Testes
 
+```bash
 go test ./... -v
